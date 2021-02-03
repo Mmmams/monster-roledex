@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Mmmams/monster-roledex/index.html/static/css/main.b1093b35.chunk.css",
-    "main.js": "/Mmmams/monster-roledex/index.html/static/js/main.dc536162.chunk.js",
-    "main.js.map": "/Mmmams/monster-roledex/index.html/static/js/main.dc536162.chunk.js.map",
-    "runtime-main.js": "/Mmmams/monster-roledex/index.html/static/js/runtime-main.73f438c4.js",
-    "runtime-main.js.map": "/Mmmams/monster-roledex/index.html/static/js/runtime-main.73f438c4.js.map",
-    "static/js/2.8e856f93.chunk.js": "/Mmmams/monster-roledex/index.html/static/js/2.8e856f93.chunk.js",
-    "static/js/2.8e856f93.chunk.js.map": "/Mmmams/monster-roledex/index.html/static/js/2.8e856f93.chunk.js.map",
-    "static/js/3.208f196f.chunk.js": "/Mmmams/monster-roledex/index.html/static/js/3.208f196f.chunk.js",
-    "static/js/3.208f196f.chunk.js.map": "/Mmmams/monster-roledex/index.html/static/js/3.208f196f.chunk.js.map",
-    "index.html": "/Mmmams/monster-roledex/index.html/index.html",
-    "static/css/main.b1093b35.chunk.css.map": "/Mmmams/monster-roledex/index.html/static/css/main.b1093b35.chunk.css.map",
-    "static/js/2.8e856f93.chunk.js.LICENSE.txt": "/Mmmams/monster-roledex/index.html/static/js/2.8e856f93.chunk.js.LICENSE.txt"
+    "main.css": "/mmmams/monster-roledex/index.html/static/css/main.b1093b35.chunk.css",
+    "main.js": "/mmmams/monster-roledex/index.html/static/js/main.dc536162.chunk.js",
+    "main.js.map": "/mmmams/monster-roledex/index.html/static/js/main.dc536162.chunk.js.map",
+    "runtime-main.js": "/mmmams/monster-roledex/index.html/static/js/runtime-main.9b5a85e3.js",
+    "runtime-main.js.map": "/mmmams/monster-roledex/index.html/static/js/runtime-main.9b5a85e3.js.map",
+    "static/js/2.8e856f93.chunk.js": "/mmmams/monster-roledex/index.html/static/js/2.8e856f93.chunk.js",
+    "static/js/2.8e856f93.chunk.js.map": "/mmmams/monster-roledex/index.html/static/js/2.8e856f93.chunk.js.map",
+    "static/js/3.208f196f.chunk.js": "/mmmams/monster-roledex/index.html/static/js/3.208f196f.chunk.js",
+    "static/js/3.208f196f.chunk.js.map": "/mmmams/monster-roledex/index.html/static/js/3.208f196f.chunk.js.map",
+    "index.html": "/mmmams/monster-roledex/index.html/index.html",
+    "static/css/main.b1093b35.chunk.css.map": "/mmmams/monster-roledex/index.html/static/css/main.b1093b35.chunk.css.map",
+    "static/js/2.8e856f93.chunk.js.LICENSE.txt": "/mmmams/monster-roledex/index.html/static/js/2.8e856f93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.73f438c4.js",
+    "static/js/runtime-main.9b5a85e3.js",
     "static/js/2.8e856f93.chunk.js",
     "static/css/main.b1093b35.chunk.css",
     "static/js/main.dc536162.chunk.js"
